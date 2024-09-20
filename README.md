@@ -1,4 +1,4 @@
-# The Greenholt Phish - TryHackMe Walkthrough
+# The Greenholt Phish - TryHackMe
 
 ## Overview
 In this lab, we analyze a phishing email and investigate the domain and infrastructure behind the phishing campaign. This walkthrough covers the following aspects:
